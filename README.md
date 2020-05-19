@@ -4,11 +4,6 @@
 Akanksha Patel
 Sri Manika Makam
 
-# Phase 1
-# Instructions to run
-
-
-# Phase 2 
 # Instructions to train 
 
 Download the given dataset where train.py code is present and run the following command. 
